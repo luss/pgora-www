@@ -1,13 +1,13 @@
 ---
 title: Jekyll Serif Theme
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+description: pgOra Specializes in Postgresql and Oracle Consulting Services
 intro_image: "images/illustrations/pointing.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# pgOra - PostgreSQL Consulting Services
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+pgOra Specializes in Postgres and Oracle consulting services.
